@@ -24,13 +24,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-<div style="background: rgba(135, 206, 235, 0.1); padding: 20px; border-radius: 10px; margin: 20px 0;">
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation" alt="Expertise" />
 </div>
 
-```typescript
+javascript
+
+
 // Technical Expertise & Innovation Areas
 const expertise = {
     languages: {
