@@ -28,82 +28,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation" alt="Expertise" />
 </div>
 
-javascript
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 25px;">
+    <div style="background: #ffffff; padding: 20px; border-radius: 8px;">
+        <h4 style="color: #2c3e50; margin-bottom: 15px;">🎯 Core Skills</h4>
+        <ul style="list-style: none; padding: 0;">
+            <li style="margin-bottom: 8px;">• Full Stack Development</li>
+            <li style="margin-bottom: 8px;">• AI & Machine Learning</li>
+            <li style="margin-bottom: 8px;">• Cloud Architecture</li>
+            <li style="margin-bottom: 8px;">• DevOps & Automation</li>
+        </ul>
+    </div>
 
+    <div style="background: #ffffff; padding: 20px; border-radius: 8px;">
+        <h4 style="color: #2c3e50; margin-bottom: 15px;">💡 Interests</h4>
+        <ul style="list-style: none; padding: 0;">
+            <li style="margin-bottom: 8px;">• Building Scalable Solutions</li>
+            <li style="margin-bottom: 8px;">• AI-Powered Applications</li>
+            <li style="margin-bottom: 8px;">• Cloud-Native Architecture</li>
+            <li style="margin-bottom: 8px;">• Open Source Contribution</li>
+        </ul>
+        
+    </div>
+    
+</div>
 
-// Technical Expertise & Innovation Areas
-const expertise = {
-    languages: {
-        primary: ["Python", "JavaScript", "TypeScript"],
-        secondary: ["PHP", "Go", "Java"],
-        markup: ["HTML5", "CSS3", "XML"]
-    },
-    frontend: {
-        frameworks: ["React", "Next.js", "Vue"],
-        styling: ["TailwindCSS", "Material-UI", "Styled-Components"],
-        state: ["Redux", "Context API", "Zustand"]
-    },
-    backend: {
-        frameworks: ["Node.js", "Django", "FastAPI", "Laravel"],
-        api: ["REST", "GraphQL", "WebSocket"],
-        testing: ["Jest", "PyTest", "Cypress"]
-    },
-    cloud: {
-        platforms: ["AWS", "Azure", "GCP"],
-        containers: ["Docker", "Kubernetes", "ECS"],
-        serverless: ["Lambda", "Cloud Functions", "Azure Functions"]
-    },
-    ai_ml: {
-        frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        areas: ["NLP", "Computer Vision", "Deep Learning"],
-        tools: ["OpenAI", "Hugging Face", "NLTK"]
-    },
-    databases: {
-        sql: ["PostgreSQL", "MySQL"],
-        nosql: ["MongoDB", "Redis"],
-        search: ["Elasticsearch", "Algolia"]
-    },
-    architecture: {
-        patterns: ["Microservices", "Event-Driven", "Serverless"],
-        principles: ["SOLID", "DRY", "KISS"],
-        scaling: ["Load Balancing", "Caching", "Sharding"]
-    }
-};
+<div style="margin-top: 25px; background: #ffffff; padding: 20px; border-radius: 8px;">
+    <h4 style="color: #2c3e50; margin-bottom: 15px;">🌟 Quick Facts</h4>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+        <div>
+            <p style="margin-bottom: 8px;">• Location: Digital Nomad</p>
+            <p style="margin-bottom: 8px;">• Languages: English, Bengali</p>
+        </div>
+        <div>
+            <p style="margin-bottom: 8px;">• Open for: Collaborations</p>
+            <p style="margin-bottom: 8px;">• Learning: Always</p>
+        </div>
+    </div>
+</div>
 
-class FullStackDeveloper {
-    constructor() {
-        this.name = "Raiyan Rafid";
-        this.title = "Full Stack Developer & AI Engineer";
-        this.location = "Digital Nomad";
-        this.languages = ["English", "Bengali"];
-        this.passion = "Building innovative solutions for complex problems";
-    }
-
-    get expertise() {
-        return {
-            frontend: "⭐⭐⭐⭐⭐",
-            backend: "⭐⭐⭐⭐⭐",
-            devops: "⭐⭐⭐⭐",
-            ai_ml: "⭐⭐⭐⭐",
-            architecture: "⭐⭐⭐⭐⭐"
-        };
-    }
-
-    sayHi() {
-        return [
-            `👋 Hi there! I'm ${this.name}, a ${this.title}.`,
-            `💡 Passionate about ${this.passion}.`,
-            `🌍 Working remotely as a ${this.location}.`,
-            `🤝 Let's collaborate on innovative projects!`
-        ].join('\n');
-    }
-}
-
-// Initialize Developer Profile
-const me = new FullStackDeveloper();
-console.log(me.sayHi());
-```
-
+<div style="text-align: center; margin-top: 25px; padding: 15px; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%); border-radius: 8px;">
+    <p style="color: #2c3e50; font-style: italic;">
+        "Building innovative solutions for complex problems while embracing new technologies and challenges."
+    </p>
 </div>
 
 <div align="center">
