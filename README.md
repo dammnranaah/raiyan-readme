@@ -32,7 +32,7 @@
 
 ```typescript
 // Technical Expertise & Innovation Areas
-const expertise: TechnicalExpertise = {
+const expertise = {
     languages: {
         primary: ["Python", "JavaScript", "TypeScript"],
         secondary: ["PHP", "Go", "Java"],
@@ -68,25 +68,18 @@ const expertise: TechnicalExpertise = {
         principles: ["SOLID", "DRY", "KISS"],
         scaling: ["Load Balancing", "Caching", "Sharding"]
     }
-} as const;
+};
 
-interface Developer {
-    name: string;
-    title: string;
-    location: string;
-    languages: string[];
-    passion: string;
-    expertise: Record<string, string>;
-}
+class FullStackDeveloper {
+    constructor() {
+        this.name = "Raiyan Rafid";
+        this.title = "Full Stack Developer & AI Engineer";
+        this.location = "Digital Nomad";
+        this.languages = ["English", "Bengali"];
+        this.passion = "Building innovative solutions for complex problems";
+    }
 
-class FullStackDeveloper implements Developer {
-    name: string = "Raiyan Rafid";
-    title: string = "Full Stack Developer & AI Engineer";
-    location: string = "Digital Nomad";
-    languages: string[] = ["English", "Bengali"];
-    passion: string = "Building innovative solutions for complex problems";
-
-    get expertise(): Record<string, string> {
+    get expertise() {
         return {
             frontend: "⭐⭐⭐⭐⭐",
             backend: "⭐⭐⭐⭐⭐",
@@ -96,7 +89,7 @@ class FullStackDeveloper implements Developer {
         };
     }
 
-    sayHi(): string {
+    sayHi() {
         return [
             `👋 Hi there! I'm ${this.name}, a ${this.title}.`,
             `💡 Passionate about ${this.passion}.`,
