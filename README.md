@@ -1,154 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Digital%20Innovator&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Cloud%20Architect&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Digital%20Innovator&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Cloud%20Architect&descAlignY=52&descSize=20" />
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://raiyanhossain.net">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=87CEEB" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:contact@raiyanhossain.net">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=87CEEB" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/raiyanhossainrafid">
-    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=87CEEB" />
+    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,coding,minimal" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 6px 12px rgba(0,0,0,0.1);" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" style="border-radius: 10px;">
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Innovation & Expertise
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="50px" height="50px">
+  Welcome to My Digital Universe!
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="50px" height="50px">
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation" alt="Expertise" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation" />
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 25px;">
-    <div style="background: #ffffff; padding: 20px; border-radius: 8px;">
-        <h4 style="color: #2c3e50; margin-bottom: 15px;">🎯 Core Skills</h4>
-        <ul style="list-style: none; padding: 0;">
-            <li style="margin-bottom: 8px;">• Full Stack Development</li>
-            <li style="margin-bottom: 8px;">• AI & Machine Learning</li>
-            <li style="margin-bottom: 8px;">• Cloud Architecture</li>
-            <li style="margin-bottom: 8px;">• DevOps & Automation</li>
-        </ul>
-    </div>
-
-    <div style="background: #ffffff; padding: 20px; border-radius: 8px;">
-        <h4 style="color: #2c3e50; margin-bottom: 15px;">💡 Interests</h4>
-        <ul style="list-style: none; padding: 0;">
-            <li style="margin-bottom: 8px;">• Building Scalable Solutions</li>
-            <li style="margin-bottom: 8px;">• AI-Powered Applications</li>
-            <li style="margin-bottom: 8px;">• Cloud-Native Architecture</li>
-            <li style="margin-bottom: 8px;">• Open Source Contribution</li>
-        </ul>
-        
-    </div>
-    
-</div>
-
-<div style="margin-top: 25px; background: #ffffff; padding: 20px; border-radius: 8px;">
-    <h4 style="color: #2c3e50; margin-bottom: 15px;">🌟 Quick Facts</h4>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-        <div>
-            <p style="margin-bottom: 8px;">• Location: Digital Nomad</p>
-            <p style="margin-bottom: 8px;">• Languages: English, Bengali</p>
-        </div>
-        <div>
-            <p style="margin-bottom: 8px;">• Open for: Collaborations</p>
-            <p style="margin-bottom: 8px;">• Learning: Always</p>
-        </div>
-    </div>
-</div>
-
-<div style="text-align: center; margin-top: 25px; padding: 15px; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%); border-radius: 8px;">
-    <p style="color: #2c3e50; font-style: italic;">
-        "Building innovative solutions for complex problems while embracing new technologies and challenges."
+<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 20px; border-radius: 8px;">
+    <h3 align="center">
+      <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" height="35px">
+      About Me
+      <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" height="35px">
+    </h3>
+    <p align="center">
+      I'm a passionate Full Stack Developer and AI Engineer with a love for creating innovative digital solutions. 
+      With expertise in modern web technologies, cloud architecture, and artificial intelligence, 
+      I strive to build applications that make a difference.
     </p>
+  </div>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=transparent&hide_border=true&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=transparent&hide_border=true&title_color=87CEEB&icon_color=87CEEB&text_color=000000" width="49%" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="500px" style="border-radius: 10px;">
 </div>
 
-<h2>🎯 Current Focus</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px" height="40px">
+  Tech Stack & Skills
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px" height="40px">
+</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔭 Working on</h3>
-      <ul>
-        <li>AI-Powered Applications</li>
-        <li>Cloud-Native Solutions</li>
-        <li>Enterprise Architecture</li>
-        <li>Performance Optimization</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌱 Learning</h3>
-      <ul>
-        <li>Advanced AI/ML Algorithms</li>
-        <li>Blockchain Technology</li>
-        <li>System Design Patterns</li>
-        <li>Edge Computing</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<h2>🛠️ Technology Arsenal</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,redis,postgresql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tensorflow,graphql,tailwind,vim" />
+<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 20px; border-radius: 8px;">
+    <div align="center">
+      <h4>Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /><br><br>
+      
+      <h4>Backend & Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" /><br><br>
+      
+      <h4>DevOps & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git" />
+    </div>
+  </div>
 </div>
 
-<h2>🚀 Featured Projects</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=radical&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4" width="49%" />
+</div>
+
+<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 20px; border-radius: 8px;">
+    <h3 align="center">
+      <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px">
+      Current Focus Areas
+      <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px">
+    </h3>
+    <div align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60px" height="60px"><br>
+            <b>AI & ML</b>
+          </td>
+          <td align="center">
+            <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="60px" height="60px"><br>
+            <b>Cloud Architecture</b>
+          </td>
+          <td align="center">
+            <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="60px" height="60px"><br>
+            <b>DevOps</b>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=advanced-music-bot&theme=transparent&hide_border=true&title_color=87CEEB&icon_color=87CEEB&text_color=000000&bg_color=00000000" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react-dark&hide_border=true&color=FF69B4&line=87CEEB&point=FF69B4" width="100%" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px" height="30px">
+    Let's Connect!
+    <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px" height="30px">
+  </h2>
+  <a href="https://linkedin.com/in/raiyanhossain">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=pterodactyl-setup&theme=transparent&hide_border=true&title_color=87CEEB&icon_color=87CEEB&text_color=000000&bg_color=00000000" width="49%" />
+  <a href="https://twitter.com/raiyanhossain">
+    <img src="https://img.shields.io/badge/Twitter-Follow-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/raiyanhossain">
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<h2>📈 Coding Metrics</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&custom_title=Contribution%20Graph&bg_color=transparent&color=000000&line=87CEEB&point=87CEEB&area_color=87CEEB&title_color=000000&area=true&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <h2>💻 Weekly Development</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanRafid&layout=compact&theme=transparent&hide_border=true&title_color=87CEEB&text_color=000000" width="355px" />
-</div>
-
-```text
-TypeScript    ██████████░░░░░  45.2%
-Python        ████████░░░░░░░  33.4%
-JavaScript    ███░░░░░░░░░░░░  11.5%
-Docker        ██░░░░░░░░░░░░░   5.9%
-Other         █░░░░░░░░░░░░░░   4.0%
-```
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" />
-</div>
-
-<div align="center">
-  <h3>Let's Connect & Create Something Extraordinary! 🌟</h3>
-  <p>Open for collaborations and innovative projects</p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&reversal=true" />
 </div>
