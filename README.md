@@ -22,8 +22,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Innovation & Expertise
 </h2>
-```
-javascript
+
+```javascript
 const expertise = {
     languages: ["Python", "JavaScript", "TypeScript", "PHP"],
     frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
@@ -45,10 +45,11 @@ class Developer {
     sayHi() {
         console.log("Thanks for visiting my profile! Let's build something amazing together.");
     }
-} ```
+}
 
 const me = new Developer();
 me.sayHi();
+```
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=transparent&hide_border=true&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666" width="49%" />
