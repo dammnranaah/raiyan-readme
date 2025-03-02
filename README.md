@@ -73,13 +73,10 @@
     <div align="center">
       <h4>Frontend Development</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass,bootstrap" /><br><br>
-      
       <h4>Backend & Database</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,mongodb,postgresql,mysql,redis,graphql" /><br><br>
-      
       <h4>DevOps & Cloud</h4>
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github,gitlab,nginx,cloudflare" /><br><br>
-      
       <h4>AI & Machine Learning</h4>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,r,opencv" /><br>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -238,53 +235,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react-dark&hide_border=true&color=FF69B4&line=87CEEB&point=FF69B4" width="100%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30px" height="30px">
-  Education & Certifications
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30px" height="30px">
-</h2>
-
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
-  <div style="background: white; padding: 20px; border-radius: 8px;">
-    <div align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <h4>🎓 Master's in Computer Science</h4>
-            <p>Specialization in Artificial Intelligence</p>
-            <p><i>University of Technology | 2016 - 2018</i></p>
-          </td>
-          <td align="center">
-            <h4>🎓 Bachelor's in Software Engineering</h4>
-            <p>Minor in Data Science</p>
-            <p><i>Tech Institute | 2012 - 2016</i></p>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h4>🏆 AWS Certified Solutions Architect</h4>
-            <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-          </td>
-          <td align="center">
-            <h4>🏆 Google Cloud Professional Engineer</h4>
-            <img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h4>🏆 Microsoft Azure Solutions Expert</h4>
-            <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-          </td>
-          <td align="center">
-            <h4>🏆 TensorFlow Developer Certificate</h4>
-            <img src="https://img.shields.io/badge/TensorFlow-Certified-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          </td>
-        </tr>
-      </table>
-    </div>
-  </div>
 </div>
 
 <div align="center">
