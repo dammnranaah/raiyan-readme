@@ -64,10 +64,8 @@
     <div align="center">
       <h4 style="color: #0A81AB; font-weight: 600; letter-spacing: 0.5px;">Frontend Development</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass,bootstrap" /><br><br>
-      
       <h4 style="color: #0A81AB; font-weight: 600; letter-spacing: 0.5px;">Backend & Database</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,mongodb,postgresql,mysql,redis,graphql" /><br><br>
-      
       <h4 style="color: #0A81AB; font-weight: 600; letter-spacing: 0.5px;">AI & Text Generation</h4>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,r,opencv" /><br>
       <div style="margin-top: 10px; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
@@ -77,7 +75,6 @@
         <img src="https://img.shields.io/badge/NLTK-0A81AB?style=flat&logo=python&logoColor=white" />
       </div>
       <br>
-      
       <h4 style="color: #0A81AB; font-weight: 600; letter-spacing: 0.5px;">DevOps & Tools</h4>
       <img src="https://skillicons.dev/icons?i=aws,docker,github,gitlab,nginx,vscode,git" /><br>
     </div>
