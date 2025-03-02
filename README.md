@@ -25,30 +25,103 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Development;Text+Generation+Systems;Natural+Language+Processing;Interactive+Web+Applications;AI+Programming" />
 </div>
 
-<div style="background: linear-gradient(to right, #0A81AB, #121212); padding: 3px; border-radius: 16px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(to right, #A020F0, #121212); padding: 3px; border-radius: 16px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   <div style="background: #f8f9fa; padding: 25px; border-radius: 14px;">
-    <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px; margin-bottom: 20px;">
+    <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px; margin-bottom: 20px; color: #A020F0;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> About Me
     </h3>
-    <p align="center" style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">
-      Visionary Full Stack Developer specializing in text generation and AI programming. Expert in building interactive web applications, creating advanced language models, and implementing AI-powered solutions. Passionate about developing intuitive interfaces for complex AI systems and optimizing application performance.
-    </p>
-    <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-top: 20px;">
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
-        <span>Developing interactive web applications</span>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: stretch;">
+      <!-- Left column - Bio -->
+      <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-left: 4px solid #A020F0;">
+        <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px; text-align: left;">
+          <span style="font-weight: 600; color: #A020F0; font-size: 18px;">Hello, I'm Raiyan! 👋</span><br><br>
+          A visionary Full Stack Developer with a passion for creating intelligent, user-friendly applications. I specialize in text generation and AI programming, bringing together the worlds of web development and artificial intelligence.
+        </p>
+        <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px; text-align: left;">
+          With expertise in building interactive web applications and implementing AI-powered solutions, I strive to create technology that feels intuitive and makes a meaningful impact.
+        </p>
+        <div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
+          <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <span style="font-size: 20px;">💡</span>
+          </div>
+          <div>
+            <span style="font-weight: 600; color: #333;">My Philosophy:</span>
+            <p style="margin: 5px 0 0 0; font-style: italic; color: #555;">"Technology should solve real problems while being accessible to everyone."</p>
+          </div>
+        </div>
       </div>
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" />
-        <span>Creating advanced text generation systems</span>
+      <!-- Right column - What I Do -->
+      <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 15px;">
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-top: 4px solid #A020F0;">
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+            <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+              <span style="font-size: 20px;">🚀</span>
+            </div>
+            <h4 style="margin: 0; color: #A020F0; font-weight: 600;">What I Do</h4>
+          </div>
+          <ul style="margin: 0; padding-left: 20px; list-style-type: none;">
+            <li style="margin-bottom: 12px; position: relative; padding-left: 25px;">
+              <span style="position: absolute; left: 0; top: 2px; color: #A020F0;">▹</span>
+              Develop interactive web applications with modern frameworks
+            </li>
+            <li style="margin-bottom: 12px; position: relative; padding-left: 25px;">
+              <span style="position: absolute; left: 0; top: 2px; color: #A020F0;">▹</span>
+              Create advanced text generation systems and language models
+            </li>
+            <li style="margin-bottom: 12px; position: relative; padding-left: 25px;">
+              <span style="position: absolute; left: 0; top: 2px; color: #A020F0;">▹</span>
+              Implement AI-powered solutions for real-world problems
+            </li>
+            <li style="position: relative; padding-left: 25px;">
+              <span style="position: absolute; left: 0; top: 2px; color: #A020F0;">▹</span>
+              Design intuitive interfaces for complex AI systems
+            </li>
+          </ul>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-top: 4px solid #A020F0;">
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+            <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+              <span style="font-size: 20px;">🎯</span>
+            </div>
+            <h4 style="margin: 0; color: #A020F0; font-weight: 600;">Current Goals</h4>
+          </div>
+          <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+            <span style="background: rgba(160, 32, 240, 0.1); color: #A020F0; padding: 8px 15px; border-radius: 20px; font-size: 14px; font-weight: 500;">Advanced LLM Applications</span>
+            <span style="background: rgba(160, 32, 240, 0.1); color: #A020F0; padding: 8px 15px; border-radius: 20px; font-size: 14px; font-weight: 500;">Real-time AI Systems</span>
+            <span style="background: rgba(160, 32, 240, 0.1); color: #A020F0; padding: 8px 15px; border-radius: 20px; font-size: 14px; font-weight: 500;">Scalable Web Architecture</span>
+            <span style="background: rgba(160, 32, 240, 0.1); color: #A020F0; padding: 8px 15px; border-radius: 20px; font-size: 14px; font-weight: 500;">Open Source Contributions</span>
+          </div>
+        </div>
       </div>
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" />
-        <span>Implementing AI-powered solutions</span>
-      </div>
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
-        <span>Building human-computer interaction tools</span>
+    </div>
+    <!-- Bottom section - Quick facts -->
+    <div style="margin-top: 20px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+      <h4 style="text-align: center; color: #A020F0; font-weight: 600; margin-top: 0; margin-bottom: 15px;">Quick Facts</h4>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <div style="width: 35px; height: 35px; min-width: 35px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <span style="font-size: 18px;">🌍</span>
+          </div>
+          <span>Based in <b>San Francisco, CA</b></span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <div style="width: 35px; height: 35px; min-width: 35px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <span style="font-size: 18px;">💼</span>
+          </div>
+          <span>Open to <b>freelance opportunities</b></span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <div style="width: 35px; height: 35px; min-width: 35px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <span style="font-size: 18px;">🎓</span>
+          </div>
+          <span>MSc in <b>Computer Science</b></span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <div style="width: 35px; height: 35px; min-width: 35px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <span style="font-size: 18px;">🌱</span>
+          </div>
+          <span>Learning <b>Generative AI & LLMs</b></span>
+        </div>
       </div>
     </div>
   </div>
@@ -62,8 +135,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>🔹 Core Competencies</b></td>
-      <td><b>🔹 Technical Stack</b></td>
+      <td><b>ðŸ"¹ Core Competencies</b></td>
+      <td><b>ðŸ"¹ Technical Stack</b></td>
     </tr>
     <tr>
       <td>
@@ -92,19 +165,19 @@
     </tr>
     <tr>
       <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-A020F0?style=flat-square&logo=react&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=nextjs&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-⭐⭐⭐-A020F0?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://custom-icon-badges.demolab.com/badge/React.js-â­â­â­â­â­-A020F0?style=flat-square&logo=react&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Next.js-â­â­â­â­-A020F0?style=flat-square&logo=nextjs&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-â­â­â­-A020F0?style=flat-square&logo=vue.js&logoColor=white" />
       </td>
       <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=node.js&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Express-⭐⭐⭐⭐-A020F0?style=flat-square&logo=express&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-A020F0?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-â­â­â­â­-A020F0?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Express-â­â­â­â­-A020F0?style=flat-square&logo=express&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-â­â­â­â­-A020F0?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
       <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Docker-⭐⭐⭐⭐-A020F0?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/AWS-⭐⭐⭐-A020F0?style=flat-square&logo=aws&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/CI/CD-⭐⭐⭐-A020F0?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Docker-â­â­â­â­-A020F0?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/AWS-â­â­â­-A020F0?style=flat-square&logo=aws&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/CI/CD-â­â­â­-A020F0?style=flat-square&logo=github-actions&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -132,7 +205,7 @@
               </div>
             </a>
           </div>
-          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">🤖</div>
+          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">ðŸ¤–</div>
           <h4 style="color: #A020F0; font-weight: 700; margin-bottom: 15px; font-size: 20px; text-align: center;">AI Text Generation Platform</h4>
           <p style="margin-bottom: 20px; text-align: center; color: #555; line-height: 1.5;">Advanced content creation system with customizable outputs for various industries</p>
           <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 25px;">
@@ -152,7 +225,7 @@
               </div>
             </a>
           </div>
-          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">🌐</div>
+          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">ðŸŒ</div>
           <h4 style="color: #A020F0; font-weight: 700; margin-bottom: 15px; font-size: 20px; text-align: center;">Interactive Web Application</h4>
           <p style="margin-bottom: 20px; text-align: center; color: #555; line-height: 1.5;">Feature-rich SaaS platform with real-time collaboration and intuitive UI</p>
           <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 25px;">
@@ -172,7 +245,7 @@
               </div>
             </a>
           </div>
-          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">📱</div>
+          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">ðŸ"±</div>
           <h4 style="color: #A020F0; font-weight: 700; margin-bottom: 15px; font-size: 20px; text-align: center;">NLP-Powered Mobile App</h4>
           <p style="margin-bottom: 20px; text-align: center; color: #555; line-height: 1.5;">Cross-platform application with advanced language processing capabilities</p>
           <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 25px;">
@@ -192,7 +265,7 @@
               </div>
             </a>
           </div>
-          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">🔍</div>
+          <div style="font-size: 50px; margin-bottom: 20px; text-align: center;">ðŸ"</div>
           <h4 style="color: #A020F0; font-weight: 700; margin-bottom: 15px; font-size: 20px; text-align: center;">Semantic Search Engine</h4>
           <p style="margin-bottom: 20px; text-align: center; color: #555; line-height: 1.5;">Context-aware search system with natural language understanding</p>
           <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 25px;">
@@ -221,7 +294,7 @@
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease; border-left: 4px solid #0A81AB; display: flex; flex-direction: column; align-items: center;">
           <div style="width: 80px; height: 80px; background: rgba(10, 129, 171, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="font-size: 40px;">💬</div>
+            <div style="font-size: 40px;">🔍</div>
           </div>
           <b style="color: #0A81AB; font-size: 18px; display: block; margin-bottom: 10px; text-align: center;">Text Generation</b>
           <p style="text-align: center; color: #555; line-height: 1.5;">Building advanced language models and content generation systems</p>
@@ -229,7 +302,7 @@
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease; border-left: 4px solid #0A81AB; display: flex; flex-direction: column; align-items: center;">
           <div style="width: 80px; height: 80px; background: rgba(10, 129, 171, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="font-size: 40px;">⚡</div>
+            <div style="font-size: 40px;">🌐</div>
           </div>
           <b style="color: #0A81AB; font-size: 18px; display: block; margin-bottom: 10px; text-align: center;">Full Stack Web Apps</b>
           <p style="text-align: center; color: #555; line-height: 1.5;">Creating seamless, responsive applications with modern frameworks</p>
@@ -237,7 +310,7 @@
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease; border-left: 4px solid #0A81AB; display: flex; flex-direction: column; align-items: center;">
           <div style="width: 80px; height: 80px; background: rgba(10, 129, 171, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="font-size: 40px;">🔌</div>
+            <div style="font-size: 40px;">🔄</div>
           </div>
           <b style="color: #0A81AB; font-size: 18px; display: block; margin-bottom: 10px; text-align: center;">API Development</b>
           <p style="text-align: center; color: #555; line-height: 1.5;">Designing robust, scalable APIs for AI-powered applications</p>
@@ -245,7 +318,7 @@
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease; border-left: 4px solid #0A81AB; display: flex; flex-direction: column; align-items: center;">
           <div style="width: 80px; height: 80px; background: rgba(10, 129, 171, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="font-size: 40px;">🧠</div>
+            <div style="font-size: 40px;">🤖</div>
           </div>
           <b style="color: #0A81AB; font-size: 18px; display: block; margin-bottom: 10px; text-align: center;">NLP Applications</b>
           <p style="text-align: center; color: #555; line-height: 1.5;">Implementing natural language processing for practical use cases</p>
@@ -253,7 +326,7 @@
         </div>
         <div style="background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease; border-left: 4px solid #0A81AB; display: flex; flex-direction: column; align-items: center;">
           <div style="width: 80px; height: 80px; background: rgba(10, 129, 171, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="font-size: 40px;">⏱️</div>
+            <div style="font-size: 40px;">🚀</div>
           </div>
           <b style="color: #0A81AB; font-size: 18px; display: block; margin-bottom: 10px; text-align: center;">Real-time Systems</b>
           <p style="text-align: center; color: #555; line-height: 1.5;">Developing applications with real-time data processing capabilities</p>
@@ -358,8 +431,7 @@
         <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </div>
-    
-   <h3 align="center" style="margin-top: 25px;">Support:</h3>
+    <h3 align="center" style="margin-top: 25px;">Support:</h3>
     <div align="center">
       <a href="https://www.buymeacoffee.com/raiyanhossain" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-A020F0?style=flat&logo=buy-me-a-coffee&logoColor=white" />
