@@ -4,19 +4,19 @@
 
 <div align="center">
   <a href="https://raiyanhossain.net">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-87CEEB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:contact@raiyanhossain.net">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/raiyanhossainrafid">
-    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Follow%20Me-87CEEB?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/raiyanhossain">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/raiyanhossain">
-    <img src="https://img.shields.io/badge/Twitter-Follow-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-87CEEB?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -33,10 +33,10 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation;Blockchain+%26+Web3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Development;AI+%26+Machine+Learning;Cloud+Architecture;DevOps+%26+Automation;Blockchain+%26+Web3" />
 </div>
 
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(to right, #87CEEB, #000000); padding: 3px; border-radius: 10px; margin: 20px 0;">
   <div style="background: white; padding: 20px; border-radius: 8px;">
     <h3 align="center">
       <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" height="35px">
@@ -68,19 +68,19 @@
   <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40px" height="40px">
 </h2>
 
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(to right, #87CEEB, #000000); padding: 3px; border-radius: 10px; margin: 20px 0;">
   <div style="background: white; padding: 20px; border-radius: 8px;">
     <div align="center">
-      <h4>Frontend Development</h4>
+      <h4 style="color: #87CEEB;">Frontend Development</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass,bootstrap" /><br><br>
-      <h4>Backend & Database</h4>
+      <h4 style="color: #87CEEB;">Backend & Database</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,mongodb,postgresql,mysql,redis,graphql" /><br><br>
-      <h4>DevOps & Cloud</h4>
+      <h4 style="color: #87CEEB;">DevOps & Cloud</h4>
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github,gitlab,nginx,cloudflare" /><br><br>
-      <h4>AI & Machine Learning</h4>
+      <h4 style="color: #87CEEB;">AI & Machine Learning</h4>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,r,opencv" /><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-87CEEB?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
     </div>
   </div>
 </div>
@@ -91,20 +91,20 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 </h2>
 
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(to right, #87CEEB, #000000); padding: 3px; border-radius: 10px; margin: 20px 0;">
   <div style="background: white; padding: 20px; border-radius: 8px;">
     <div align="center">
       <table>
         <tr>
           <td align="center">
-            <h4>🤖 AI-Powered Analytics Platform</h4>
+            <h4 style="color: #87CEEB;">🤖 AI-Powered Analytics Platform</h4>
             <p>Advanced data analytics with machine learning capabilities</p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
           </td>
           <td align="center">
-            <h4>🌐 Serverless E-Commerce Solution</h4>
+            <h4 style="color: #87CEEB;">🌐 Serverless E-Commerce Solution</h4>
             <p>Scalable online store with microservices architecture</p>
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
             <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -113,14 +113,14 @@
         </tr>
         <tr>
           <td align="center">
-            <h4>📱 Cross-Platform Mobile App</h4>
+            <h4 style="color: #87CEEB;">📱 Cross-Platform Mobile App</h4>
             <p>Feature-rich application with real-time capabilities</p>
             <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
             <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
           </td>
           <td align="center">
-            <h4>🔐 Blockchain Identity Solution</h4>
+            <h4 style="color: #87CEEB;">🔐 Blockchain Identity Solution</h4>
             <p>Decentralized identity verification system</p>
             <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
             <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
@@ -133,11 +133,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=radical&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=algolia&hide_border=true&stroke=87CEEB&ring=87CEEB&fire=87CEEB" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=algolia&hide_border=true&title_color=87CEEB&icon_color=87CEEB" width="49%" />
 </div>
 
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(to right, #87CEEB, #000000); padding: 3px; border-radius: 10px; margin: 20px 0;">
   <div style="background: white; padding: 20px; border-radius: 8px;">
     <h3 align="center">
       <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px">
@@ -149,34 +149,34 @@
         <tr>
           <td align="center">
             <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60px" height="60px"><br>
-            <b>AI & ML</b>
+            <b style="color: #87CEEB;">AI & ML</b>
             <p>Exploring large language models and computer vision applications</p>
           </td>
           <td align="center">
             <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="60px" height="60px"><br>
-            <b>Cloud Architecture</b>
+            <b style="color: #87CEEB;">Cloud Architecture</b>
             <p>Building serverless and multi-cloud solutions for enterprise applications</p>
           </td>
           <td align="center">
             <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="60px" height="60px"><br>
-            <b>DevOps</b>
+            <b style="color: #87CEEB;">DevOps</b>
             <p>Implementing GitOps workflows and infrastructure as code practices</p>
           </td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk4YmQ2YzY5ZGY3MjBmNDJkZDI5ZGFiYTRkOThjODUxMDM0MzFjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HVofJOWFXGpDX4xeg1/giphy.gif" width="60px" height="60px"><br>
-            <b>Web3 & Blockchain</b>
+            <b style="color: #87CEEB;">Web3 & Blockchain</b>
             <p>Developing decentralized applications and smart contracts</p>
           </td>
           <td align="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlMzJlYWM0MmNkZTdkMzYyYjQzYjM1ZDM0OGNmZDM5MzBkYzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9Gzzt8PJIdjgyV/giphy.gif" width="60px" height="60px"><br>
-            <b>Mobile Development</b>
+            <b style="color: #87CEEB;">Mobile Development</b>
             <p>Creating cross-platform applications with React Native and Flutter</p>
           </td>
           <td align="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlMzJlYWM0MmNkZTdkMzYyYjQzYjM1ZDM0OGNmZDM5MzBkYzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9Gzzt8PJIdjgyV/giphy.gif" width="60px" height="60px"><br>
-            <b>UI/UX Design</b>
+            <b style="color: #87CEEB;">UI/UX Design</b>
             <p>Crafting intuitive and accessible user experiences</p>
           </td>
         </tr>
@@ -237,7 +237,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react-dark&hide_border=true&color=FF69B4&line=87CEEB&point=FF69B4" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react-dark&hide_border=true&color=87CEEB&line=87CEEB&point=87CEEB" width="100%" />
 </div>
 
 <div align="center">
@@ -248,26 +248,26 @@
   </h2>
   <p>I'm always open to interesting conversations, collaboration opportunities, and new challenges!</p>
   <a href="https://linkedin.com/in/raiyanhossain">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/raiyanhossain">
-    <img src="https://img.shields.io/badge/Twitter-Follow-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-87CEEB?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/raiyanhossain">
-    <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-87CEEB?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://dev.to/raiyanhossain">
-    <img src="https://img.shields.io/badge/Dev.to-Follow-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dev.to-Follow-87CEEB?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://medium.com/@raiyanhossain">
-    <img src="https://img.shields.io/badge/Medium-Follow-FF69B4?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Follow-87CEEB?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&style=flat-square&color=FF69B4" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&style=flat-square&color=87CEEB" alt="Profile views" />
 </div>
 
 <div align="center">
