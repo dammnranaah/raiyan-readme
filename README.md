@@ -500,7 +500,6 @@
         <img src="https://img.shields.io/badge/Medium-A020F0?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
     </div>
-    
     <div align="center" style="margin-top: 20px;">
       <a href="mailto:contact@raiyanhossain.net" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -509,7 +508,6 @@
         <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </div>
-    
     <h3 align="center" style="margin-top: 25px;">Support:</h3>
     <div align="center">
       <a href="https://www.buymeacoffee.com/raiyanhossain" style="text-decoration: none;">
@@ -530,53 +528,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=100&section=footer&reversal=true" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🔹 Core Competencies</b></td>
-      <td><b>🔹 Technical Stack</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/TEXT_GENERATION-A020F0?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/AI_PROGRAMMING-A020F0?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Frontend Mastery</b></td>
-      <td><b>Backend Prowess</b></td>
-      <td><b>DevOps Arsenal</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-A020F0?style=flat-square&logo=react&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=nextjs&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-⭐⭐⭐-A020F0?style=flat-square&logo=vue.js&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=node.js&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Express-⭐⭐⭐⭐-A020F0?style=flat-square&logo=express&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-A020F0?style=flat-square&logo=mongodb&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://custom-icon-badges.demolab.com/badge/Docker-⭐⭐⭐⭐-A020F0?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/AWS-⭐⭐⭐-A020F0?style=flat-square&logo=aws&logoColor=white" /><br/>
-        <img src="https://custom-icon-badges.demolab.com/badge/CI/CD-⭐⭐⭐-A020F0?style=flat-square&logo=github-actions&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
