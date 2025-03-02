@@ -59,207 +59,57 @@
   Tech Stack & Skills
 </h2>
 
-<div style="background: linear-gradient(to right, #A020F0, #121212); padding: 3px; border-radius: 16px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-  <div style="background: #f8f9fa; padding: 25px; border-radius: 14px;">
-    <div align="center">
-      <!-- Frontend Development -->
-      <div style="background: white; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-          <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-            <span style="font-size: 20px;">🎨</span>
-          </div>
-          <h4 style="color: #A020F0; font-weight: 600; letter-spacing: 0.5px; margin: 0;">Frontend Development</h4>
-        </div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass,bootstrap" />
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 15px;">
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Responsive Design</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">UI/UX</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Web Animation</span>
-        </div>
-      </div>
-      <!-- Backend & Database -->
-      <div style="background: white; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-          <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-            <span style="font-size: 20px;">⚙️</span>
-          </div>
-          <h4 style="color: #A020F0; font-weight: 600; letter-spacing: 0.5px; margin: 0;">Backend & Database</h4>
-        </div>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,mongodb,postgresql,mysql,redis,graphql" />
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 15px;">
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">RESTful APIs</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Microservices</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Database Design</span>
-        </div>
-      </div>
-      <!-- AI & Text Generation -->
-      <div style="background: white; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-          <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-            <span style="font-size: 20px;">🤖</span>
-          </div>
-          <h4 style="color: #A020F0; font-weight: 600; letter-spacing: 0.5px; margin: 0;">AI & Text Generation</h4>
-        </div>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,r,opencv" /><br>
-        <div style="margin-top: 10px; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-          <img src="https://img.shields.io/badge/Scikit--Learn-A020F0?style=flat&logo=scikit-learn&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hugging_Face-121212?style=flat&logo=huggingface&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI_API-121212?style=flat&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLTK-A020F0?style=flat&logo=python&logoColor=white" />
-        </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 15px;">
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">NLP</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Machine Learning</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">LLMs</span>
-        </div>
-      </div>
-      <!-- DevOps & Tools -->
-      <div style="background: white; border-radius: 12px; padding: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-          <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-            <span style="font-size: 20px;">🚀</span>
-          </div>
-          <h4 style="color: #A020F0; font-weight: 600; letter-spacing: 0.5px; margin: 0;">DevOps & Tools</h4>
-        </div>
-        <img src="https://skillicons.dev/icons?i=aws,docker,github,gitlab,nginx,vscode,git" /><br>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 15px;">
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">CI/CD</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Cloud Services</span>
-          <span style="background: #f0f0f0; color: #333; padding: 5px 12px; border-radius: 20px; font-size: 14px; border: 1px solid #e0e0e0;">Containerization</span>
-        </div>
-      </div>
-      <!-- Skill Proficiency -->
-      <div style="margin-top: 30px; background: white; border-radius: 12px; padding: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-        <h4 style="color: #A020F0; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 20px; text-align: center;">Skill Proficiency</h4>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-          <!-- Frontend -->
-          <div style="border-left: 4px solid #A020F0; padding-left: 15px;">
-            <h5 style="margin-top: 0; color: #333;">Frontend</h5>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>React.js</span>
-                <span>95%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 95%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>Next.js</span>
-                <span>90%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 90%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div>
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>CSS/SASS</span>
-                <span>85%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 85%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Backend -->
-          <div style="border-left: 4px solid #A020F0; padding-left: 15px;">
-            <h5 style="margin-top: 0; color: #333;">Backend</h5>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>Node.js</span>
-                <span>90%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 90%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>Python</span>
-                <span>85%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 85%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div>
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>MongoDB</span>
-                <span>80%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 80%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-          </div>
-          <!-- AI -->
-          <div style="border-left: 4px solid #A020F0; padding-left: 15px;">
-            <h5 style="margin-top: 0; color: #333;">AI & ML</h5>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>NLP</span>
-                <span>95%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 95%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>TensorFlow</span>
-                <span>80%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 80%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div>
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>OpenAI API</span>
-                <span>90%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 90%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-          </div>
-          <!-- DevOps -->
-          <div style="border-left: 4px solid #A020F0; padding-left: 15px;">
-            <h5 style="margin-top: 0; color: #333;">DevOps</h5>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>Docker</span>
-                <span>85%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 85%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div style="margin-bottom: 10px;">
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>AWS</span>
-                <span>75%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 75%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-            <div>
-              <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-                <span>CI/CD</span>
-                <span>80%</span>
-              </div>
-              <div style="height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden;">
-                <div style="width: 80%; height: 100%; background: #A020F0;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🔹 Core Competencies</b></td>
+      <td><b>🔹 Technical Stack</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/TEXT_GENERATION-A020F0?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/AI_PROGRAMMING-A020F0?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Frontend Mastery</b></td>
+      <td><b>Backend Prowess</b></td>
+      <td><b>DevOps Arsenal</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-A020F0?style=flat-square&logo=react&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=nextjs&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Vue.js-⭐⭐⭐-A020F0?style=flat-square&logo=vue.js&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-A020F0?style=flat-square&logo=node.js&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Express-⭐⭐⭐⭐-A020F0?style=flat-square&logo=express&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-A020F0?style=flat-square&logo=mongodb&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/Docker-⭐⭐⭐⭐-A020F0?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/AWS-⭐⭐⭐-A020F0?style=flat-square&logo=aws&logoColor=white" /><br/>
+        <img src="https://custom-icon-badges.demolab.com/badge/CI/CD-⭐⭐⭐-A020F0?style=flat-square&logo=github-actions&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 <h2 align="center" style="letter-spacing: 1px; font-weight: 600; margin: 40px 0 20px;">
@@ -508,7 +358,8 @@
         <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </div>
-    <h3 align="center" style="margin-top: 25px;">Support:</h3>
+    
+   <h3 align="center" style="margin-top: 25px;">Support:</h3>
     <div align="center">
       <a href="https://www.buymeacoffee.com/raiyanhossain" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-A020F0?style=flat&logo=buy-me-a-coffee&logoColor=white" />
