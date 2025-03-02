@@ -191,40 +191,43 @@
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px" height="30px">
 </h2>
 
-<div style="background: linear-gradient(to right, #FF69B4, #87CEEB); padding: 3px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(to right, #87CEEB, #000000); padding: 3px; border-radius: 10px; margin: 20px 0;">
   <div style="background: white; padding: 20px; border-radius: 8px;">
     <div align="center">
       <table>
         <tr>
           <td>
-            <h4>🏢 Senior Full Stack Developer</h4>
+            <h4 style="color: #87CEEB;">🏢 Senior Full Stack Developer</h4>
             <p><i>Tech Innovations Inc. | 2021 - Present</i></p>
             <ul align="left">
-              <li>Led development of enterprise-scale applications</li>
+              <li>Led development of enterprise-scale applications using React, Node.js, and AWS</li>
               <li>Implemented CI/CD pipelines reducing deployment time by 40%</li>
               <li>Mentored junior developers and conducted code reviews</li>
+              <li>Optimized application performance resulting in 35% faster load times</li>
             </ul>
           </td>
         </tr>
         <tr>
           <td>
-            <h4>🏢 AI Solutions Architect</h4>
+            <h4 style="color: #87CEEB;">🏢 AI Solutions Architect</h4>
             <p><i>Future AI Labs | 2019 - 2021</i></p>
             <ul align="left">
-              <li>Designed and implemented machine learning solutions</li>
+              <li>Designed and implemented machine learning solutions for Fortune 500 clients</li>
               <li>Optimized model performance for production environments</li>
               <li>Collaborated with cross-functional teams to deliver AI products</li>
+              <li>Developed natural language processing systems with 92% accuracy</li>
             </ul>
           </td>
         </tr>
         <tr>
           <td>
-            <h4>🏢 Cloud Infrastructure Engineer</h4>
+            <h4 style="color: #87CEEB;">🏢 Cloud Infrastructure Engineer</h4>
             <p><i>CloudScale Solutions | 2017 - 2019</i></p>
             <ul align="left">
-              <li>Architected and deployed multi-cloud infrastructure</li>
+              <li>Architected and deployed multi-cloud infrastructure across AWS, Azure, and GCP</li>
               <li>Implemented security best practices and compliance measures</li>
               <li>Reduced operational costs by 30% through infrastructure optimization</li>
+              <li>Designed disaster recovery solutions with 99.99% uptime guarantee</li>
             </ul>
           </td>
         </tr>
