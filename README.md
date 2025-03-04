@@ -22,19 +22,60 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6F3AFC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer;Text+Generation+Expert;Problem+Solver" alt="Typing SVG" />
 </p>
 
+// ... existing code ...
+
 <!-- About Me -->
 <h2>💫 About Me</h2>
-```python
-class RaiyanHossain:
-    def __init__(self):
-        self.role = "Full Stack Developer & AI Engineer"
-        self.location = "San Francisco, CA"
-        self.education = "MSc in Computer Science"
-        self.interests = ["AI/ML", "Text Generation", "Web Development"]    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-```
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="120" />
+
+  <div style="margin: 20px 0;">
+    <p align="center" style="font-size: 18px; margin: 8px 0;">
+      Hello! I'm <strong style="color: #6F3AFC;">Raiyan Hossain</strong>, a passionate Full Stack Developer and AI Engineer
+    </p>
+    <p align="center" style="font-size: 16px; color: #555; margin: 8px 0;">
+      Crafting intelligent solutions at the intersection of web development and artificial intelligence
+    </p>
+  </div>
+
+  <div align="center" style="margin: 20px 0;">
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="25" />
+          <br>
+          MSc in Computer Science
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Location" width="25" />
+          <br>
+          San Francisco, CA
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Work" width="25" />
+          <br>
+          Open to Opportunities
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div align="center" style="margin: 20px 0;">
+    <h4>🎯 Current Focus</h4>
+    <p>
+      <img src="https://img.shields.io/badge/AI/ML-6F3AFC?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Text_Generation-6F3AFC?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web_Development-6F3AFC?style=for-the-badge&logoColor=white"/>
+    </p>
+  </div>
+
+  <div align="center" style="background: rgba(111, 58, 252, 0.1); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <p style="font-style: italic; color: #6F3AFC;">
+      "Building technology that makes a meaningful impact while being accessible to everyone"
+    </p>
+  </div>
+</div>
 <!-- Tech Stack -->
 <h2>🛠️ Tech Stack</h2>
 
