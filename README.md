@@ -141,24 +141,33 @@
 <!-- Featured Projects -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" />
-    <span style="color: #4A90E2"> Featured Creations</span>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ6dWU4N3BjYnJ3NHd6NndqbXFwZmQ2ZDV4aGZxZWF6NmR1aXV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/200.gif" width="25" style="margin-right: 8px;" />
+    <span style="color: #4A90E2">Featured Creations</span>
   </h2>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; padding: 20px;">
     <!-- AI Text Generator -->
-    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2);">
+    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2); position: relative; overflow: hidden;">
       <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" style="margin-right: 10px;" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiMzY3ZmNiOTZkZjNmNjM4MjgzYjYzYjI5NjQ5OWJmY2YyZDU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/200.gif" width="40" style="margin-right: 10px; border-radius: 8px;" />
         <h3 style="color: #4A90E2; margin: 0;">AI Text Generator</h3>
       </div>
       <p style="color: #666; margin: 10px 0; text-align: left;">
         Advanced text generation system using state-of-the-art language models. Features include:
       </p>
       <ul style="text-align: left; color: #666;">
-        <li>🤖 GPT-based architecture</li>
-        <li>⚡ Real-time processing</li>
-        <li>🎯 Context-aware responses</li>
+        <li>
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgzoKnwFNmISR8I/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Advanced GPT-based architecture
+        </li>
+        <li>
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btQ8jDTPGDpgc6I/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Real-time processing
+        </li>
+        <li>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l46CyJmS9KUbID2es/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Context-aware responses
+        </li>
       </ul>
       <div style="margin-top: 15px;">
         <a href="https://github.com/RaiyanRafid/ai-text-generator" style="text-decoration: none;">
@@ -172,18 +181,27 @@
       </div>
     </div>
     <!-- Interactive Web App -->
-    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2);">
+    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2); position: relative; overflow: hidden;">
       <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" style="margin-right: 10px;" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QXPmPdU1uQE6IM1M9O/200.gif" width="40" style="margin-right: 10px; border-radius: 8px;" />
         <h3 style="color: #4A90E2; margin: 0;">Interactive Web App</h3>
       </div>
       <p style="color: #666; margin: 10px 0; text-align: left;">
         Modern web application with rich interactive features. Highlights include:
       </p>
       <ul style="text-align: left; color: #666;">
-        <li>🎨 Responsive design</li>
-        <li>⚡ Real-time updates</li>
-        <li>🔒 Secure authentication</li>
+        <li>
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Responsive design
+        </li>
+        <li>
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btQ8jDTPGDpgc6I/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Real-time updates
+        </li>
+        <li>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JWuBH9rCO2uZuHBFpm/200.gif" width="20" style="margin-right: 8px; vertical-align: middle;" />
+          Secure authentication
+        </li>
       </ul>
       <div style="margin-top: 15px;">
         <a href="https://github.com/RaiyanRafid/interactive-web-app" style="text-decoration: none;">
@@ -201,9 +219,9 @@
   <!-- View More Projects Button -->
   <a href="https://github.com/RaiyanRafid?tab=repositories" style="display: inline-block; margin-top: 20px; text-decoration: none;">
     <div style="background: linear-gradient(135deg, #4A90E2, #357ABD); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="20" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/200.gif" width="20" />
       View More Projects
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" width="20" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPbLHExjDVEEbTi/200.gif" width="20" />
     </div>
   </a>
 </div>
