@@ -145,14 +145,67 @@
     <span style="color: #4A90E2"> Featured Creations</span>
   </h2>
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://github.com/RaiyanRafid/ai-text-generator" style="text-decoration: none;">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=ai-text-generator&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/RaiyanRafid/interactive-web-app" style="text-decoration: none;">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=interactive-web-app&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
-    </a>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; padding: 20px;">
+    <!-- AI Text Generator -->
+    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2);">
+      <div style="display: flex; align-items: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" style="margin-right: 10px;" />
+        <h3 style="color: #4A90E2; margin: 0;">AI Text Generator</h3>
+      </div>
+      <p style="color: #666; margin: 10px 0; text-align: left;">
+        Advanced text generation system using state-of-the-art language models. Features include:
+      </p>
+      <ul style="text-align: left; color: #666;">
+        <li>🤖 GPT-based architecture</li>
+        <li>⚡ Real-time processing</li>
+        <li>🎯 Context-aware responses</li>
+      </ul>
+      <div style="margin-top: 15px;">
+        <a href="https://github.com/RaiyanRafid/ai-text-generator" style="text-decoration: none;">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=ai-text-generator&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
+        </a>
+      </div>
+      <div style="margin-top: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </div>
+    </div>
+    <!-- Interactive Web App -->
+    <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(74, 144, 226, 0.2);">
+      <div style="display: flex; align-items: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" style="margin-right: 10px;" />
+        <h3 style="color: #4A90E2; margin: 0;">Interactive Web App</h3>
+      </div>
+      <p style="color: #666; margin: 10px 0; text-align: left;">
+        Modern web application with rich interactive features. Highlights include:
+      </p>
+      <ul style="text-align: left; color: #666;">
+        <li>🎨 Responsive design</li>
+        <li>⚡ Real-time updates</li>
+        <li>🔒 Secure authentication</li>
+      </ul>
+      <div style="margin-top: 15px;">
+        <a href="https://github.com/RaiyanRafid/interactive-web-app" style="text-decoration: none;">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=interactive-web-app&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
+        </a>
+      </div>
+      <div style="margin-top: 15px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </div>
+    </div>
   </div>
+
+  <!-- View More Projects Button -->
+  <a href="https://github.com/RaiyanRafid?tab=repositories" style="display: inline-block; margin-top: 20px; text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #4A90E2, #357ABD); color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="20" />
+      View More Projects
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Right%20Arrow.png" width="20" />
+    </div>
+  </a>
 </div>
 
 <!-- GitHub Stats -->
