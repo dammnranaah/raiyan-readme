@@ -1,49 +1,44 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Raiyan%20Hossain&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=20&descAlignY=75&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,33,39&height=200&section=header&text=Raiyan%20Hossain&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=20&descAlignY=75&descAlign=50"/>
 </p>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&style=for-the-badge&color=6F3AFC" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&style=for-the-badge&color=4A90E2" alt="Profile Views"/>
 </div>
 
-<!-- Greeting -->
-<h1 align="center">
-  Welcome to my Digital Space!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 
 <!-- Social Links -->
 <div align="center">
   <a href="https://raiyanhossain.net">
-    <img src="https://img.shields.io/badge/Portfolio-6F3AFC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/raiyanhossain">
-    <img src="https://img.shields.io/badge/LinkedIn-6F3AFC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/raiyanhossain">
-    <img src="https://img.shields.io/badge/Twitter-6F3AFC?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-4A90E2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
 <!-- Dynamic Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6F3AFC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer;Text+Generation+Expert;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer;Text+Generation+Expert;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- About Section -->
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25" />
-    <span style="color: #6F3AFC"> Who Am I</span>
+    <span style="color: #4A90E2"> Who Am I</span>
   </h2>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="120" />
 
-  <div style="background: rgba(111, 58, 252, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: rgba(74, 144, 226, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
     <p align="center" style="font-size: 18px; margin: 8px 0;">
-      Hello! I'm <strong style="color: #6F3AFC;">Raiyan Hossain</strong> 👋
+      Hello! I'm <strong style="color: #4A90E2;">Raiyan Hossain</strong> 👋
     </p>
     <p align="center" style="font-size: 16px; color: #555; margin: 8px 0;">
       A passionate developer crafting intelligent solutions at the intersection of web development and AI
@@ -54,24 +49,24 @@
   <div style="margin: 30px 0;">
     <table align="center" style="border-collapse: separate; border-spacing: 15px;">
       <tr>
-        <td align="center" style="background: rgba(111, 58, 252, 0.05); padding: 15px; border-radius: 10px;">
+        <td align="center" style="background: rgba(74, 144, 226, 0.05); padding: 15px; border-radius: 10px;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" />
           <br>
-          <strong style="color: #6F3AFC;">Education</strong>
+          <strong style="color: #4A90E2;">Education</strong>
           <br>
           MSc in Computer Science
         </td>
-        <td align="center" style="background: rgba(111, 58, 252, 0.05); padding: 15px; border-radius: 10px;">
+        <td align="center" style="background: rgba(74, 144, 226, 0.05); padding: 15px; border-radius: 10px;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="30" />
           <br>
-          <strong style="color: #6F3AFC;">Location</strong>
+          <strong style="color: #4A90E2;">Location</strong>
           <br>
           San Francisco, CA
         </td>
-        <td align="center" style="background: rgba(111, 58, 252, 0.05); padding: 15px; border-radius: 10px;">
+        <td align="center" style="background: rgba(74, 144, 226, 0.05); padding: 15px; border-radius: 10px;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
           <br>
-          <strong style="color: #6F3AFC;">Status</strong>
+          <strong style="color: #4A90E2;">Status</strong>
           <br>
           Open to Opportunities
         </td>
@@ -83,19 +78,19 @@
   <div style="margin: 30px 0;">
     <h3>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25" />
-      <span style="color: #6F3AFC"> Areas of Focus</span>
+      <span style="color: #4A90E2"> Areas of Focus</span>
     </h3>
     <p>
-      <img src="https://img.shields.io/badge/🤖_AI/ML-6F3AFC?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/✨_Text_Generation-6F3AFC?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/🌐_Web_Development-6F3AFC?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🤖_AI/ML-4A90E2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/✨_Text_Generation-4A90E2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🌐_Web_Development-4A90E2?style=for-the-badge"/>
     </p>
   </div>
 
   <!-- Mission Statement -->
-  <div style="background: linear-gradient(135deg, rgba(111, 58, 252, 0.1), rgba(111, 58, 252, 0.05)); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(74, 144, 226, 0.05)); padding: 20px; border-radius: 10px; margin: 20px 0;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" />
-    <p style="font-style: italic; color: #6F3AFC; margin: 10px 0;">
+    <p style="font-style: italic; color: #4A90E2; margin: 10px 0;">
       "Building technology that makes a meaningful impact while being accessible to everyone"
     </p>
   </div>
@@ -105,13 +100,13 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" />
-    <span style="color: #6F3AFC"> Tech Arsenal</span>
+    <span style="color: #4A90E2"> Tech Arsenal</span>
   </h2>
 </div>
 
-<div style="background: rgba(111, 58, 252, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: rgba(74, 144, 226, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
   <details open>
-    <summary style="color: #6F3AFC; font-weight: bold; cursor: pointer;">🎨 Frontend Crafting</summary>
+    <summary style="color: #4A90E2; font-weight: bold; cursor: pointer;">🎨 Frontend Crafting</summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -122,7 +117,7 @@
   </details>
 
   <details open>
-    <summary style="color: #6F3AFC; font-weight: bold; cursor: pointer;">⚡ Backend Engineering</summary>
+    <summary style="color: #4A90E2; font-weight: bold; cursor: pointer;">⚡ Backend Engineering</summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -133,7 +128,7 @@
   </details>
 
   <details open>
-    <summary style="color: #6F3AFC; font-weight: bold; cursor: pointer;">🧠 AI & Machine Learning</summary>
+    <summary style="color: #4A90E2; font-weight: bold; cursor: pointer;">🧠 AI & Machine Learning</summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -147,15 +142,15 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" />
-    <span style="color: #6F3AFC"> Featured Creations</span>
+    <span style="color: #4A90E2"> Featured Creations</span>
   </h2>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/RaiyanRafid/ai-text-generator" style="text-decoration: none;">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=ai-text-generator&theme=react&bg_color=1F222E&title_color=6F3AFC&icon_color=F8D866&hide_border=true&show_icons=false" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=ai-text-generator&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
     </a>
     <a href="https://github.com/RaiyanRafid/interactive-web-app" style="text-decoration: none;">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=interactive-web-app&theme=react&bg_color=1F222E&title_color=6F3AFC&icon_color=F8D866&hide_border=true&show_icons=false" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyanRafid&repo=interactive-web-app&theme=react&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&hide_border=true&show_icons=false" />
     </a>
   </div>
 </div>
@@ -164,23 +159,23 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" />
-    <span style="color: #6F3AFC"> GitHub Analytics</span>
+    <span style="color: #4A90E2"> GitHub Analytics</span>
   </h2>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6F3AFC&icon_color=F8D866"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=tokyonight&hide_border=true&background=1F222E&ring=6F3AFC&fire=F8D866&currStreakLabel=6F3AFC"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=react&hide_border=true&background=1F222E&ring=4A90E2&fire=F8D866&currStreakLabel=4A90E2"/>
 
-  <img width="100%" style="margin-top: 20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react-dark&bg_color=1F222E&color=6F3AFC&line=6F3AFC&point=F8D866&hide_border=true"/>
+  <img width="100%" style="margin-top: 20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react&bg_color=1F222E&color=4A90E2&line=4A90E2&point=F8D866&hide_border=true"/>
 </div>
 
 <!-- Connect Section -->
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" />
-    <span style="color: #6F3AFC"> Let's Connect</span>
+    <span style="color: #4A90E2"> Let's Connect</span>
   </h2>
 
-  <div style="background: rgba(111, 58, 252, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: rgba(74, 144, 226, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
     <a href="https://linkedin.com/in/raiyanhossain">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -198,5 +193,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,33,39&height=100&section=footer"/>
 </p>
