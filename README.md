@@ -229,14 +229,74 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" />
-    <span style="color: #4A90E2"> GitHub Analytics</span>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUD0Xg3CZ8aCk/200.gif" width="25" style="margin-right: 8px;" />
+    <span style="color: #4A90E2">GitHub Analytics</span>
   </h2>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=react&hide_border=true&background=1F222E&ring=4A90E2&fire=F8D866&currStreakLabel=4A90E2"/>
-
-  <img width="100%" style="margin-top: 20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react&bg_color=1F222E&color=4A90E2&line=4A90E2&point=F8D866&hide_border=true"/>
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; margin: 20px 0; border: 1px solid rgba(74, 144, 226, 0.2);">
+    <!-- Stats Cards Container -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 20px;">
+      <!-- GitHub Stats Card -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3);">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cjoMxwPvzKwLYEfwC8/200.gif" width="20" style="margin-right: 8px;" />
+          <span style="color: #4A90E2; font-weight: bold;">Activity Overview</span>
+        </div>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&border_radius=10"/>
+      </div>
+      <!-- GitHub Streak Stats Card -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3);">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4KzpjLvJjJknJ5Xuak/200.gif" width="20" style="margin-right: 8px;" />
+          <span style="color: #4A90E2; font-weight: bold;">Contribution Streak</span>
+        </div>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=react&hide_border=true&background=1F222E&ring=4A90E2&fire=F8D866&currStreakLabel=4A90E2&border_radius=10"/>
+      </div>
+    </div>
+    <!-- Activity Graph -->
+    <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3);">
+      <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/200.gif" width="20" style="margin-right: 8px;" />
+        <span style="color: #4A90E2; font-weight: bold;">Contribution Activity</span>
+      </div>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react&bg_color=1F222E&color=4A90E2&line=4A90E2&point=F8D866&hide_border=true&radius=10"/>
+    </div>
+    <!-- Quick Stats -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+      <!-- Commits -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH6CqYiquZawmU1HI6/200.gif" width="30" style="margin-right: 10px;" />
+        <div>
+          <div style="color: #4A90E2; font-weight: bold;">Total Commits</div>
+          <div style="color: #F8D866; font-size: 1.2em;">1.2K+</div>
+        </div>
+      </div>
+      <!-- Pull Requests -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NoNw4pMNTvgc/200.gif" width="30" style="margin-right: 10px;" />
+        <div>
+          <div style="color: #4A90E2; font-weight: bold;">Pull Requests</div>
+          <div style="color: #F8D866; font-size: 1.2em;">150+</div>
+        </div>
+      </div>
+      <!-- Issues -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPwoeGErMRzTHuE/200.gif" width="30" style="margin-right: 10px;" />
+        <div>
+          <div style="color: #4A90E2; font-weight: bold;">Issues Resolved</div>
+          <div style="color: #F8D866; font-size: 1.2em;">200+</div>
+        </div>
+      </div>
+      <!-- Code Review -->
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H62NM1ab7wzMXURdoi/200.gif" width="30" style="margin-right: 10px;" />
+        <div>
+          <div style="color: #4A90E2; font-weight: bold;">Code Reviews</div>
+          <div style="color: #F8D866; font-size: 1.2em;">300+</div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Connect Section -->
