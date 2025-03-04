@@ -234,24 +234,22 @@
   </h2>
 
   <!-- Main Stats Container -->
-  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.1), rgba(248, 216, 102, 0.1)); border-radius: 16px; padding: 20px; margin: 20px 0; border: 1px solid rgba(74, 144, 226, 0.2); position: relative; overflow: hidden;">
-    <!-- Floating Animation Background -->
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.03; background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btQ8jDTPGDpgc6I/200.gif') repeat;"></div>
+  <div style="background: rgba(31, 34, 46, 0.9); border-radius: 16px; padding: 20px; margin: 20px 0; border: 1px solid rgba(74, 144, 226, 0.2);">
     <!-- Quick Stats Row -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 10px 20px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); min-width: 120px;">
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+      <div style="background: rgba(74, 144, 226, 0.1); padding: 10px 20px; border-radius: 10px;">
         <div style="color: #F8D866; font-size: 1.5em; font-weight: bold;">1.2K+</div>
         <div style="color: #4A90E2; font-size: 0.9em;">Commits</div>
       </div>
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 10px 20px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); min-width: 120px;">
+      <div style="background: rgba(74, 144, 226, 0.1); padding: 10px 20px; border-radius: 10px;">
         <div style="color: #F8D866; font-size: 1.5em; font-weight: bold;">150+</div>
         <div style="color: #4A90E2; font-size: 0.9em;">PRs</div>
       </div>
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 10px 20px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); min-width: 120px;">
+      <div style="background: rgba(74, 144, 226, 0.1); padding: 10px 20px; border-radius: 10px;">
         <div style="color: #F8D866; font-size: 1.5em; font-weight: bold;">200+</div>
         <div style="color: #4A90E2; font-size: 0.9em;">Issues</div>
       </div>
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 10px 20px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); min-width: 120px;">
+      <div style="background: rgba(74, 144, 226, 0.1); padding: 10px 20px; border-radius: 10px;">
         <div style="color: #F8D866; font-size: 1.5em; font-weight: bold;">300+</div>
         <div style="color: #4A90E2; font-size: 0.9em;">Reviews</div>
       </div>
@@ -259,32 +257,17 @@
     <!-- Main Stats Grid -->
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
       <!-- GitHub Stats -->
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 15px; border-radius: 16px; border: 1px solid rgba(74, 144, 226, 0.3); backdrop-filter: blur(5px);">
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px;">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4A90E2&icon_color=F8D866&border_radius=10&hide=contribs"/>
       </div>
       <!-- Streak Stats -->
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 15px; border-radius: 16px; border: 1px solid rgba(74, 144, 226, 0.3); backdrop-filter: blur(5px);">
+      <div style="background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px;">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=react&hide_border=true&background=1F222E&ring=4A90E2&fire=F8D866&currStreakLabel=4A90E2&border_radius=10"/>
       </div>
     </div>
     <!-- Activity Graph -->
-    <div style="margin-top: 15px; background: rgba(31, 34, 46, 0.9); padding: 15px; border-radius: 16px; border: 1px solid rgba(74, 144, 226, 0.3); backdrop-filter: blur(5px);">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react&bg_color=1F222E&color=4A90E2&line=4A90E2&point=F8D866&hide_border=true&radius=16"/>
-    </div>
-    <!-- Contribution Metrics -->
-    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px; flex-wrap: wrap;">
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 8px 15px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center; gap: 8px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH6CqYiquZawmU1HI6/200.gif" width="20" />
-        <span style="color: #4A90E2;">Most Active: Python</span>
-      </div>
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 8px 15px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center; gap: 8px;">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4KzpjLvJjJknJ5Xuak/200.gif" width="20" />
-        <span style="color: #4A90E2;">Peak: 25 commits/day</span>
-      </div>
-      <div style="background: rgba(31, 34, 46, 0.9); padding: 8px 15px; border-radius: 20px; border: 1px solid rgba(74, 144, 226, 0.3); display: flex; align-items: center; gap: 8px;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2k4ZmJzOWFqcXBnNzVqbWx5ZHBxaWR6YnB0MmRyYjBpbXB6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/200.gif" width="20" />
-        <span style="color: #4A90E2;">Avg Response: 2hrs</span>
-      </div>
+    <div style="margin-top: 15px; background: rgba(31, 34, 46, 0.8); padding: 15px; border-radius: 10px;">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyanRafid&theme=react&bg_color=1F222E&color=4A90E2&line=4A90E2&point=F8D866&hide_border=true&radius=10"/>
     </div>
   </div>
 </div>
