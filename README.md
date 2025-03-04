@@ -30,6 +30,7 @@
     <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px; margin-bottom: 20px; color: #A020F0;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> About Me
     </h3>
+    
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: stretch;">
       <!-- Left column - Bio -->
       <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-left: 4px solid #A020F0;">
@@ -50,6 +51,7 @@
           </div>
         </div>
       </div>
+      
       <!-- Right column - What I Do -->
       <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 15px;">
         <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-top: 4px solid #A020F0;">
@@ -78,6 +80,7 @@
             </li>
           </ul>
         </div>
+        
         <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-top: 4px solid #A020F0;">
           <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
             <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
@@ -94,6 +97,7 @@
         </div>
       </div>
     </div>
+    
     <!-- Bottom section - Quick facts -->
     <div style="margin-top: 20px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
       <h4 style="text-align: center; color: #A020F0; font-weight: 600; margin-top: 0; margin-bottom: 15px;">Quick Facts</h4>
