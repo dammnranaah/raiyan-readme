@@ -78,7 +78,6 @@
             </li>
           </ul>
         </div>
-        
         <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-top: 4px solid #A020F0;">
           <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
             <div style="width: 40px; height: 40px; background: rgba(160, 32, 240, 0.1); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
